@@ -67,4 +67,7 @@ AI
 
 ### What I learned
 
-deal with the problmes step by step
+1, deal with the problmes step by step
+2, flexbox
+3, gridbox
+4, position

@@ -50,11 +50,7 @@ The designs were created to the following widths:
 ### 字体
 
 - Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
-- 字体家族：[Montserrat](https://fonts.google.com/specimen/Montserrat)
 - Weights: 500, 700
-- 字重：500, 700
 
 - Family: [Fraunces](https://fonts.google.com/specimen/Fraunces)
-- 字体家族：[Fraunces](https://fonts.google.com/specimen/Fraunces)
 - Weights: 700
-- 字重：700
